@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "277436101182",
+    "firebase_url": "https://notice-app-a99a4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "notice-app-a99a4",
+    "storage_bucket": "notice-app-a99a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277436101182:android:338909b553912950e9576f",
+        "android_client_info": {
+          "package_name": "com.example.my_notifyi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEQfj49klz6FBrDS03ykixrTFdZX-lscM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -66,8 +66,8 @@ class _SettingsPageState extends State<SettingsPage> {
                   radius: 24,
                 ),
                 // leading: Icon(Icons.account_circle_sharp, size: 50),
-                title: const Text('Sanskriti Bhardwaj'),
-                subtitle: const Text('btbtc21014_sanskriti@banasthali.in'),
+                title: const Text('Vaishnavi Jaiswal'),
+                subtitle: const Text('btbtc21032_vaishnavi@banasthali.in'),
                 onTap: () {
                   // Add your account onTap logic here
                 },
