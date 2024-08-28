@@ -61,3 +61,19 @@ Search, View Categories, and Add Notices (Only for Admin) on your device. That's
 You should now have the NotiFYI app running on your Android device, ready for 
 testing and use. If you encounter any difficulties during the setup process, don't 
 hesitate to reach out for assistance.  
+
+#  OUTPUT
+![Screenshot 2024-08-28 132518](https://github.com/user-attachments/assets/de2bf37a-aaf1-49c1-b2a7-793a811bee2d)
+
+![Screenshot 2024-08-28 132540](https://github.com/user-attachments/assets/8df776d4-98fe-41d3-b3b1-befdb02324ed)
+
+![Screenshot 2024-08-28 132555](https://github.com/user-attachments/assets/576c9b60-aba8-4e49-a155-016944c61219)
+
+![Screenshot 2024-08-28 132612](https://github.com/user-attachments/assets/52877c36-90b3-4603-aa6c-379502af35d0)
+
+![Screenshot 2024-08-28 132627](https://github.com/user-attachments/assets/c639e704-138b-4f46-824f-1212e0c9ed21)
+
+![Screenshot 2024-08-28 132642](https://github.com/user-attachments/assets/8bcb8538-b667-4443-8799-eccfbc2aa91b)
+
+![Screenshot 2024-08-28 132708](https://github.com/user-attachments/assets/ba15a573-be64-4e77-8c6c-54e55a55e9e0)
+
